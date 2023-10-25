@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import {definePageMeta} from "#imports";
 import ProductCard from "~/components/ProductCard.vue";
 
 definePageMeta({
